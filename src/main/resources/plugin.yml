@@ -1,0 +1,8 @@
+name: KotlinTest
+version: '${project.version}'
+main: me.bing.wang.www.kotlintest.kotlintest.KotlinTestMain
+api-version: 1.18
+depend:
+  - DeadlyDisasters
+commands:
+  simulation:
